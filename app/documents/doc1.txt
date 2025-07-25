@@ -1,0 +1,168 @@
+what is your name: Kapil Katkar – Front-End Developer
+
+Contact:
+Email: katkarkapil32@gmail.com
+Phone: 7798296729
+Location: Nagpur, Maharashtra 440022
+LinkedIn: linkedin.com/in/kapil-katkar-61493814a
+GitHub: github.com/kapilkatkar
+Current company/orgnization : Infosys
+Last working Day(LWD) : 23 Sept 2025
+growed up in : Chandrapur
+
+Profile:
+Front-End Developer with 3.5+ years of experience building responsive, scalable, and high-performance web applications using React, Redux, and JavaScript. Experienced with API integration, component-based architecture, and performance optimization. Passionate about creating intuitive, user-focused UIs. Also proficient in Python for backend logic and automation.
+
+About Me:
+-Hi! I'm Kapil Katkar, a Front-End Developer who loves crafting interactive and user-friendly web experiences. I specialize in building -responsive interfaces using React, JavaScript, and modern CSS frameworks like Tailwind.
+I enjoy turning complex problems into simple, elegant designs. Whether it's building a clean UI or optimizing performance, I always aim for scalable, accessible, and maintainable code.
+-I’m constantly learning and evolving - currently diving deeper into React performance, testing strategies, animation libraries, and exploring the exciting field of Generative AI development.
+
+Skills:
+- Front-End: HTML5, CSS3, JavaScript (ES6+), TypeScript
+- Styling: Tailwind CSS, SASS/SCSS, Styled-components
+- Frameworks: React, Angular, Vite
+- State Management: Redux Toolkit, Context API
+- Workflow Tools: Git, GitHub, Webpack, npm, JIRA, Agile, CI/CD
+
+Education:
+- Bachelor of Engineering, Graduation (Mechanical Engineering)– Government College of Engineering, Chandrapur (2015–2019)
+- HSC, 12th, high scool – Janata Mahavidyalaya, Chandrapur (Maharashtra Board) – 69%
+- SSC, 10th or schooling – Shivaji High School, Rajura (Maharashtra State Board) – 75%
+
+Professional Experience:
+Senior System Engineer – Infosys (08/2024 – Present)
+- Built a React-based chatbot UI integrated with REST APIs and backend LLMs to automate employee queries, reducing response time by 30%.
+- Implemented Redux, improved performance and accessibility for a platform with 80K+ monthly users.
+
+Senior System Engineer – Infosys (08/2023 – 06/2024)
+- Created a React + Redux app to manage visa workflows.
+- Integrated APIs and built robust form validation with reusable components.
+
+System Engineer – Infosys (04/2022 – 07/2023)
+- Developed an internal workflow portal using React and React Router.
+- Ensured 90%+ unit test coverage using Jest and RTL.
+
+Certificates:
+- Generative AI – Apollonius
+
+Hobbies:
+- Movies, treking, evening walk, evening tea, exercise, walking
+-favorite movie : Bhadhai ho
+
+Aspiration:
+As a passionate Front-End Developer and AI developer, here’s what I’m aiming for:
+
+-Build high-performance, accessible, and scalable web apps.
+-Dive deeper into React architecture, performance, and testing.
+-Craft intuitive user experiences with elegant, clean design.
+-Collaborate on impactful projects with like-minded developers.
+-Explore animation, micro-interactions, and design systems.
+-Leverage Generative AI to enhance web interactions intelligently.
+-Continuously grow toward becoming a Senior Technology Architect and Senior data scientist- leading front-end strategy, architecture, and innovation at scale
+
+
+
+**this is about yourself**
+   - I’m Kapil, a Front-End Developer with over 3.5 years of experience, specializing in React, Redux, and JavaScript. I’m passionate about building responsive, scalable web applications and constantly learning new technologies.
+
+2. **Why do you want to work with us?**
+   - i want to work with you because I admire your company’s innovative approach and focus on cutting-edge technologies. I believe my expertise in React and front-end development would contribute to your team’s success, and I’m excited about the growth opportunities here.
+
+3. **What are your strengths and weaknesses?**
+   - Strength: Strong problem-solving skills and a passion for performance optimization.
+   - Weakness: I tend to dive deep into the technical side of things, which can sometimes slow down the decision-making process, but I’m working on improving that.
+
+4. **Where do you see yourself in 5 years?**
+   - I see myself as a Senior Front-End Architect or Technology Lead, driving front-end strategies, improving user experiences, and exploring more in the field of Generative AI.
+
+5. **What motivates you to do your best work?**
+   - I’m motivated by creating seamless, user-friendly web experiences and optimizing performance. The idea that my work can directly impact users' lives keeps me focused and energized.
+
+6. **Why did you leave your last job, or why are you looking to leave your current position?**
+   - I’m looking for new challenges where I can grow my skills further and explore leadership roles. I believe your company provides the right environment for that.
+
+7. **Can you explain your career gap (if applicable)?**
+   - I haven’t had a career gap. I’ve been continuously working at Infosys and have been focusing on improving my front-end skills and learning new technologies.
+
+8. **What do you consider your biggest professional achievement?**
+   - I developed a React-based chatbot UI that helped reduce employee query response time by 30%, improving efficiency and user satisfaction.
+
+9. **How do you handle stress and pressure?**
+   - I remain calm by breaking down tasks into smaller steps and focusing on one task at a time. I also prioritize and delegate when necessary to meet deadlines.
+
+10. **How do you prioritize your tasks when working on multiple projects?**
+   - I prioritize tasks based on urgency and impact. I break down large tasks and make use of tools like JIRA to stay organized and meet deadlines effectively.
+
+---
+
+### Behavioral Questions:
+
+11. **Tell me about a time you had to overcome a significant challenge at work. How did you handle it?**
+   - I had to optimize a large React application to improve performance. I implemented Redux for state management and leveraged lazy loading, which reduced load time by 25%.
+
+12. **Describe a time when you disagreed with a colleague or manager. How did you resolve it?**
+   - I once disagreed with a colleague on the choice of UI design. We discussed the pros and cons, and after reviewing user feedback, we reached a consensus on a design that was both user-friendly and feasible.
+
+13. **Give an example of a project or task where you took the lead. What was the outcome?**
+   - I led the development of a visa workflow management system, where I integrated APIs and ensured the app was scalable and responsive. It became one of the most used tools in the organization.
+
+14. **Tell me about a time when you had to work under tight deadlines. How did you manage?**
+   - I worked on a project with tight deadlines where I streamlined tasks, focused on critical features, and communicated clearly with the team, delivering on time without compromising quality.
+
+15. **Can you describe a situation where you had to learn something quickly in order to complete a task?**
+   - I quickly learned React Router to implement dynamic routing in an internal workflow portal, which allowed for a smooth user experience and met project deadlines.
+
+16. **Tell me about a time you worked successfully as part of a team. What role did you play?**
+   - In a project to optimize user-facing applications, I collaborated with back-end developers and UI designers, contributing as a React expert to ensure seamless integration and smooth user experiences.
+
+---
+
+### Skills & Knowledge:
+
+17. **How do you stay updated with the latest trends and technologies in your field?**
+   - I follow blogs, participate in developer communities, attend webinars, and take online courses to stay updated on the latest in React, front-end frameworks, and AI.
+
+18. **Can you walk me through a project where you used [specific technology or skill] extensively?**
+   - I extensively used React and Redux to build a complex visa workflow management system. I used React for the UI, Redux for state management, and integrated REST APIs to handle workflow operations.
+
+19. **What programming languages are you most comfortable with? Can you explain your experience with each?**
+   - I’m most comfortable with JavaScript (ES6+), React, and Python. JavaScript for front-end development, React for building UIs, and Python for back-end logic and automation tasks.
+
+20. **What’s your approach to problem-solving when faced with a technical challenge?**
+   - I break down the problem into smaller, manageable pieces, research solutions, and experiment with different approaches. If needed, I collaborate with team members to ensure the best solution.
+
+---
+
+### Company Fit & Culture:
+
+21. **What do you know about our company, and what attracted you to apply here?**
+   - I’ve researched your innovative projects in AI and your focus on cutting-edge technologies. The opportunity to work with a dynamic team and contribute to impactful projects excites me.
+
+22. **How would you describe your work style?**
+   - I’m detail-oriented, proactive, and collaborate closely with team members. I prioritize efficient communication and always aim to deliver clean, maintainable code.
+
+23. **How do you ensure your work aligns with a team’s goals or company objectives?**
+   - I make sure to clearly understand project goals from the outset, align with the team’s priorities, and regularly check in to ensure the project stays on track.
+
+24. **How do you handle receiving feedback, especially if it's critical?**
+   - I see feedback as an opportunity for growth. I listen actively, ask clarifying questions, and work on improving based on the suggestions received.
+
+25. **What type of work environment do you thrive in?**
+   - I thrive in a collaborative, flexible, and innovative environment where I can continuously learn and contribute to impactful projects.
+
+How old are you (age) : 28 Years
+
+When is your date of birth (DOB) : 21 sept 1997
+
+What is your gender: Male
+
+What is your marital status : Single
+
+What is your nationality: Indian
+
+What is your occupation: Coder
+
+What is your favorite color: White
+
+What languages do you speak: Marathi, English, Hindi

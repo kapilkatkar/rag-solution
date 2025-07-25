@@ -1,0 +1,60 @@
+what is your name: Kapil Katkar – Front-End Developer
+
+Contact:
+Email: katkarkapil32@gmail.com
+Phone: 7798296729
+Location: Nagpur, Maharashtra 440022
+LinkedIn: linkedin.com/in/kapil-katkar-61493814a
+GitHub: github.com/kapilkatkar
+Current company/orgnization : Infosys
+Last working Day(LWD) : 23 Sept 2025
+
+Profile:
+Front-End Developer with 3.5+ years of experience building responsive, scalable, and high-performance web applications using React, Redux, and JavaScript. Experienced with API integration, component-based architecture, and performance optimization. Passionate about creating intuitive, user-focused UIs. Also proficient in Python for backend logic and automation.
+
+About Me:
+-Hi! I'm Kapil Katkar, a Front-End Developer who loves crafting interactive and user-friendly web experiences. I specialize in building -responsive interfaces using React, JavaScript, and modern CSS frameworks like Tailwind.
+I enjoy turning complex problems into simple, elegant designs. Whether it's building a clean UI or optimizing performance, I always aim for scalable, accessible, and maintainable code.
+-I’m constantly learning and evolving - currently diving deeper into React performance, testing strategies, animation libraries, and exploring the exciting field of Generative AI development.
+
+Skills:
+- Front-End: HTML5, CSS3, JavaScript (ES6+), TypeScript
+- Styling: Tailwind CSS, SASS/SCSS, Styled-components
+- Frameworks: React, Angular, Vite
+- State Management: Redux Toolkit, Context API
+- Workflow Tools: Git, GitHub, Webpack, npm, JIRA, Agile, CI/CD
+
+Education:
+- Bachelor of Engineering, Graduation (Mechanical Engineering)– Government College of Engineering, Chandrapur (2015–2019)
+- HSC, 12th, high scool – Janata Mahavidyalaya, Chandrapur (Maharashtra Board) – 69%
+- SSC, 10th or schooling – Shivaji High School, Rajura (Maharashtra State Board) – 75%
+
+Professional Experience:
+Senior System Engineer – Infosys (08/2024 – Present)
+- Built a React-based chatbot UI integrated with REST APIs and backend LLMs to automate employee queries, reducing response time by 30%.
+- Implemented Redux, improved performance and accessibility for a platform with 80K+ monthly users.
+
+Senior System Engineer – Infosys (08/2023 – 06/2024)
+- Created a React + Redux app to manage visa workflows.
+- Integrated APIs and built robust form validation with reusable components.
+
+System Engineer – Infosys (04/2022 – 07/2023)
+- Developed an internal workflow portal using React and React Router.
+- Ensured 90%+ unit test coverage using Jest and RTL.
+
+Certificates:
+- Generative AI – Apollonius
+
+Hobbies:
+- Movies, treking, evening walk, evening tea, exercise, walking
+
+Aspiration:
+As a passionate Front-End Developer and AI developer, here’s what I’m aiming for:
+
+-Build high-performance, accessible, and scalable web apps.
+-Dive deeper into React architecture, performance, and testing.
+-Craft intuitive user experiences with elegant, clean design.
+-Collaborate on impactful projects with like-minded developers.
+-Explore animation, micro-interactions, and design systems.
+-Leverage Generative AI to enhance web interactions intelligently.
+-Continuously grow toward becoming a Senior Technology Architect and Senior data scientist- leading front-end strategy, architecture, and innovation at scale

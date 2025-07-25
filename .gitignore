@@ -1,0 +1,70 @@
+# Bytecode files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+.eggs/
+lib/
+lib64/
+eggs/
+MANIFEST
+
+# Virtual environment
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE files
+.idea/
+.vscode/
+
+# PyCharm
+*.iml
+*.ipr
+*.iws
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Mypy and other type checkers
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+# Pylint, flake8 and other linters
+.flake8
+.pylintrc
+
+# Test / coverage reports
+.coverage
+.coverage.*
+nosetests.xml
+pytest.xml
+test_*.xml
+
+# pyenv
+.python-version
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# SQLAlchemy
+*.db
+
+# Log files
+*.log
+
+# Local config files
+*.env
+.env.*

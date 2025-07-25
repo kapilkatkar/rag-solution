@@ -24,6 +24,10 @@ qa_chain = get_rag_chain()
 class Query(BaseModel):
     question: str
 
+@app.get("/health")
+def health_check():
+    return {"status": "ok"}
+
 @app.post("/rag-v1")
 async def ask(query: Query):
     result = qa_chain.invoke(query.question)

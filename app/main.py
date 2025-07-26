@@ -7,9 +7,11 @@ from fastapi.middleware.cors import CORSMiddleware
 app = FastAPI()
 
 origins = [
-    "http://localhost:5173",  # Your React dev server origin, adjust if different
-    "http://localhost:3000",  # Another common React port if needed
+    "http://localhost:5173",
+    "http://localhost:3000",
+    "https://rag-solution.onrender.com/rag-v1", 
 ]
+
 
 app.add_middleware(
     CORSMiddleware,

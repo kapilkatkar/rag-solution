@@ -9,16 +9,20 @@ app = FastAPI()
 origins = [
     "http://localhost:5173",
     "http://localhost:3000",
-    "https://rag-solution.onrender.com/rag-v1", 
+    "https://kapilk-portfolio.netlify.app/", 
 ]
 
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=origins,          # List of allowed origins
+    allow_origins=[
+        "http://localhost:5173",
+        "http://localhost:3000",
+        "https://kapilk-portfolio.netlify.app/" 
+    ],
     allow_credentials=True,
-    allow_methods=["*"],            # Allow all HTTP methods (POST, GET, etc.)
-    allow_headers=["*"],            # Allow all headers
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 qa_chain = get_rag_chain()
